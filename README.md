@@ -1,0 +1,1 @@
+# If-custom-post-type-post-not-open-in-single
